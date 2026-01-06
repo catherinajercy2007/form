@@ -1,27 +1,56 @@
-# Web Development Internship Projects  
-### SaiKet Systems
+# 📝 Responsive Web Form
 
-This repository contains the tasks completed during my **Web Development Internship at SaiKet Systems**.  
-The projects focus on building strong fundamentals in **HTML, CSS, and basic JavaScript**, with emphasis on clean structure, modern UI, and best practices.
-
----
-
-## 👤 Intern Information
-- **Name:** Catherina Jercy
-- **Role:** Web Development Intern  
-- **Organization:** SaiKet Systems  
-- **Internship Duration:** 4 Weeks  
+This project was developed as **Task 4** of my Web Development Internship.  
+The objective was to design and implement a user-friendly and responsive web form using frontend technologies.
 
 ---
 
-## 🛠 Technologies & Tools
+## 📄 Description
+
+The web form focuses on collecting user input efficiently while maintaining a clean layout and proper validation structure.  
+It demonstrates form design best practices and usability principles.
+
+---
+
+## 🚀 Features
+
+- Clean and structured form layout
+- Input fields with labels and placeholders
+- Basic form validation
+- Responsive design for all screen sizes
+- User-friendly interface
+
+---
+
+## 🛠 Technologies Used
+
 - HTML5  
 - CSS3  
-- JavaScript (Basic)  
-- Visual Studio Code  
-- Google Chrome  
+- JavaScript  
 
 ---
 
-## 📁 Project Structure
+## 🔗 Live Demo
 
+(Add your live link here)
+
+---
+
+## 📂 Repository
+
+(Add your GitHub repository link here)
+
+---
+
+## 📌 Key Learnings
+
+- Designing accessible and structured forms
+- Handling user input effectively
+- Applying basic form validation
+- Improving UI/UX for data entry
+
+---
+
+## 🙏 Acknowledgement
+
+I would like to thank my internship mentors for their guidance and support throughout this task.
