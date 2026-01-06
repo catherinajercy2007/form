@@ -32,13 +32,13 @@ It demonstrates form design best practices and usability principles.
 
 ## 🔗 Live Demo
 
-(Add your live link here)
+https://catherinajercy2007.github.io/form/
 
 ---
 
 ## 📂 Repository
 
-(Add your GitHub repository link here)
+https://github.com/catherinajercy2007/form
 
 ---
 
